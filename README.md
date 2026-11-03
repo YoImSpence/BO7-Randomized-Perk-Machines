@@ -1,13 +1,17 @@
-Forces all perk machines to randomize on load in of each zombies game played just like in Paradox Junction. Works on all maps besides Paradox Junction (feature already exist)
+# Randomized Perk Machines Mod
 
-**KNOWN ISSUES**
+Forces all perk machines to randomize on map load for every Zombies match played, bringing the perk mechanics from **Paradox Junction** to all Black Ops 7 Zombies map. 
 
-(*) Perks have incorrect lighting in certain cases due to inability to delete original perk machines lights.
-(*) Perks occasionally start without or lose their interaction prompt which blocks player from buying said perk or said interaction prompt can't be triggered even when displayed.
-(*) Perks may in very rare cases reset to their default perk/location and cause perks to go missing from map and may also spawn in a duplicate machine thats not interactable.
-(*) Perks lack any/all animations related to powering on, being purchased, etc.
+*(Note: This feature is automatically disabled on Paradox Junction since it is already natively built into the map.)*
 
-**EXTRA INFO**
+## Known Issues
 
-(*) This mod can be used alongside Taylor's (@aspect.ofautumn / @aspect.of.autumn) "ZM Classic Perks Mod (zm_classic_perks.gsc)" from the Kronos Launcher or can be used without as well!
-(*) Report any and all issues to @YoImSpence on Discord or via this Google Forms: https://forms.gle/iVKukDRB5viobqZU8
+* **Incorrect Lighting:** Perks may have incorrect/overlapping lighting in certain scenarios due to an issue preventing the deletion of the original perk machines' lighting.
+* **Interaction Prompt Bugs:** Perks occasionally spawn without their interaction prompt, or lose it entirely, preventing players from purchasing the perk. In some instances, the prompt may display but remain completely uninteractable.
+* **Location Resets & Duplicates:** In very rare cases, perks may reset to their default map locations, causing the randomized perks to go missing entirely or cause duplicate uninteractable machine spawns.
+* **Missing Animations:** Perk machines currently lack all visual animations related to powering on, being purchased, etc.
+
+## Extra Info
+
+* **Mod Compatibility:** This mod functions completely standalone but can also be used alongside Taylor's (**@aspect.ofautumn** / **@aspect.of.autumn**) *ZM Classic Perks Mod (zm_classic_perks.gsc)* from the Kronos Launcher.
+* **Bug Reporting:** Please report any and all issues directly to **@YoImSpence** on Discord or submit them via this [Google Form](https://forms.gle/iVKukDRB5viobqZU8).
