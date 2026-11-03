@@ -11,7 +11,7 @@ Forces all perk machines to randomize on map load for every Zombies match played
 * **Location Resets & Duplicates:** In very rare cases, perks may reset to their default map locations, causing the randomized perks to go missing entirely or cause duplicate uninteractable machine spawns.
 * **Missing Animations:** Perk machines currently lack all visual animations related to powering on, being purchased, etc.
 * **Map Restart via Console:** When attempting to restart a map using "map_restart" in console, perks may fail to randomize and/or become uninteractable
-* * **Limited Functionality in Cursed Modes:** When attempting to use mod in **Cursed / Cursed Survival** some perks may fail to randomize or have a working interaction, especially when using alongside the *"Dancing Arnie Relic"*
+* **Limited Functionality in Cursed Modes:** When attempting to use mod in **Cursed / Cursed Survival** some perks may fail to randomize or have a working interaction, especially when using alongside the *"Dancing Arnie Relic"*
 
 ## Extra Info
 
