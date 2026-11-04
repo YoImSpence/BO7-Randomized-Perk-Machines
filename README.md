@@ -15,5 +15,5 @@ Forces all perk machines to randomize on map load for every Zombies match played
 
 ## Extra Info
 
-* **Mod Compatibility:** This mod functions completely standalone but can also be used alongside Taylor's (**@aspect.ofautumn** / **@aspect.of.autumn**) *ZM Classic Perks Mod (zm_classic_perks.gsc)* from the Kronos Launcher.
+* **Mod Compatibility:** This mod functions completely standalone but can also be used alongside Taylor's (**@aspect.ofautumn** / **@aspect.of.autumn**) **ZM Classic Perks Mod** *(zm_classic_perks.gsc)* from the *Kronos Launcher*.
 * **Bug Reporting:** Please report any and all issues directly to **@YoImSpence** on Discord or submit them via this [Google Form](https://forms.gle/iVKukDRB5viobqZU8).
